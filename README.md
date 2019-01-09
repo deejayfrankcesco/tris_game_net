@@ -1,2 +1,2 @@
 Readme
-![Alt text](server_example?raw=true "Title")
+![Alt text](server_example.png?raw=true "Title")
